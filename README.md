@@ -29,6 +29,8 @@
 - 📣 [Fórmula Negócio Online](https://formulanegocioonline.com/montar-um-negocio-online)
 - 🇺🇸 [O Melhor Inglês](https://omelhoringles.com)
 - 🚀 [Rocketseat GoStack Bootcamp](https://rocketseat.com.br)
+- 🟣 [Danki Code: Curso Desenvolvimento de Games Completo](https://cursos.dankicode.com/curso-dev-games)
+- 🤖 [Discovering Godot: Make Video Games in Python-like GDScript](https://www.udemy.com/course/discovering-godot)
 
 ---
 
@@ -41,13 +43,15 @@
 - 🔺 [Redis](https://redis.io)
 - 🐨 [PouchDB](https://pouchdb.com)
 - ⌨️ [Git](https://git-scm.com)
-- 🔷 [Eclipse Theia Blueprint](https://theia-ide.org)
+- 🔷 [Visual Studio Code](https://code.visualstudio.com)
+- 🔵 [Eclipse Theia Blueprint](https://theia-ide.org)
 - 💛 [JavaScript](https://www.javascript.com)
 - 💚 [Node.js](https://nodejs.org)
 - 💜 [Adonis.js](https://adonisjs.com)
 - ⚛️ [React.js](https://reactjs.org)
 - ⚛️ [React Native](https://reactnative.dev)
 - ➡️ [Next.js](https://nextjs.org)
+- 🤖 [Godot Game Engine](https://godotengine.org)
 
 ---
 
@@ -57,6 +61,7 @@
 - 🐬 [MySQL](https://www.mysql.com)
 - ✍️ [SQLite](https://www.sqlite.org)
 - 🔶 [Sublime Text](https://www.sublimetext.com)
+- ☕ [Java](https://docs.oracle.com/en/java)
 - 🐘 [PHP](https://www.php.net)
 - 🏗️ [Laravel](https://laravel.com)
 - 💲 [jQuery](https://jquery.com)
