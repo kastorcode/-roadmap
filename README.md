@@ -16,7 +16,7 @@
 
 - 📝 [CC50](https://cc50.com.br)
 - 📗 [W3Schools Tutorials](https://www.w3schools.com)
-- 📘 [Introdução à Programação com Python](https://python.nilo.pro.br)
+- 🐍 [Introdução à Programação com Python](https://python.nilo.pro.br)
 - 🐍 [Python Crash Course](https://ehmatthes.github.io/pcc)
 - 📕 [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.amazon.com.br/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
 - 🏴‍☠️ [Guia do mestre programador: Pensando como pirata, evoluindo como jedi](https://www.amazon.com.br/Guia-mestre-programador-Pensando-evoluindo-ebook/dp/B019NG6PH8)
@@ -31,6 +31,8 @@
 - 🚀 [Rocketseat GoStack Bootcamp](https://rocketseat.com.br)
 - 🟣 [Danki Code: Curso Desenvolvimento de Games Completo](https://cursos.dankicode.com/curso-dev-games)
 - 🤖 [Discovering Godot: Make Video Games in Python-like GDScript](https://www.udemy.com/course/discovering-godot)
+- ▶️ [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
+- 📘 [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ---
 
@@ -46,6 +48,7 @@
 - 🔷 [Visual Studio Code](https://code.visualstudio.com)
 - 🔵 [Eclipse Theia Blueprint](https://theia-ide.org)
 - 💛 [JavaScript](https://www.javascript.com)
+- 💙 [TypeScript](https://www.typescriptlang.org)
 - 💚 [Node.js](https://nodejs.org)
 - 💜 [Adonis.js](https://adonisjs.com)
 - ⚛️ [React.js](https://reactjs.org)
