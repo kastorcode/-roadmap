@@ -33,6 +33,7 @@
 - 🤖 [Discovering Godot: Make Video Games in Python-like GDScript](https://www.udemy.com/course/discovering-godot)
 - ▶️ [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
 - 📘 [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- 🧠 Machine Learning use in React Native The Practical Guide
 
 ---
 
