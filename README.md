@@ -6,9 +6,7 @@
 
 <p align="center">Systems Analyst | Full-Stack Developer | Goiânia, Goiás, Brasil</p>
 
-<p align="center"><a href="mailto:kastorcode@gmail.com">kastorcode@gmail.com</a> | <a href="https://www.instagram.com/kastorcode">instagram.com/kastorcode</a></p>
-
-<p align="center">This repository stores my studies as a developer.</p>
+<p align="center">This repository stores my studies as a developer</p>
 
 ---
 
@@ -34,6 +32,7 @@
 - ▶️ [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
 - 📘 [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - 🧠 Machine Learning use in React Native The Practical Guide
+- 8️⃣ [Build a Chip-8 Emulator in JavaScript that runs on a browser](https://udemy.com/course/emulator)
 
 ---
 
@@ -91,7 +90,7 @@
 
 <p align="center">If you want to build something cool, tell me.</p>
 
-<p align="center"><a href="mailto:kastorcode@gmail.com">kastorcode@gmail.com</a> | <a href="https://www.instagram.com/kastorcode">instagram.com/kastorcode</a></p>
+<p align="center"><a href="mailto:kastorcode@gmail.com">kastorcode@gmail.com</a> | <a href="https://discordapp.com/users/915652125948772372">discord@&lt;kastor.code/&gt;#7675</a> | <a href="https://instagram.com/kastorcode">instagram@kastorcode</a> | <a href="https://wa.me/5562984887222">whatsapp@+55(62)98488-7222</a></p>
 
 ---
 
