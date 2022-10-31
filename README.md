@@ -13,13 +13,13 @@
 ### <p align="center">THE WAY</p>
 
 - 📝 [CC50](https://cc50.com.br)
-- 📗 [W3Schools Tutorials](https://www.w3schools.com)
+- 📗 [W3Schools Tutorials](https://w3schools.com)
 - 🐍 [Introdução à Programação com Python](https://python.nilo.pro.br)
 - 🐍 [Python Crash Course](https://ehmatthes.github.io/pcc)
-- 📕 [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.amazon.com.br/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
-- 🏴‍☠️ [Guia do mestre programador: Pensando como pirata, evoluindo como jedi](https://www.amazon.com.br/Guia-mestre-programador-Pensando-evoluindo-ebook/dp/B019NG6PH8)
-- 📓 [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
-- 🎓 [Graduation: Analysis and Systems Development](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas)
+- 📕 [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://amazon.com.br/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
+- 🏴‍☠️ [Guia do mestre programador: Pensando como pirata, evoluindo como jedi](https://amazon.com.br/Guia-mestre-programador-Pensando-evoluindo-ebook/dp/B019NG6PH8)
+- 📓 [The Clean Coder: A Code of Conduct for Professional Programmers](https://amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- 🎓 [Graduation: Analysis and Systems Development](https://cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas)
 - 🟣 [Danki Code: Curso Webmaster Front-End Completo](https://cursos.dankicode.com/curso-front-end-completo)
 - 🟣 [Danki Code: Curso Desenvolvimento Web Completo](https://cursos.dankicode.com/curso-desenvolvimento-web-completo)
 - 🟣 [Danki Code: Curso Web Design Express](https://cursos.dankicode.com/curso-web-design-express)
@@ -28,29 +28,32 @@
 - 🇺🇸 [O Melhor Inglês](https://omelhoringles.com)
 - 🚀 [Rocketseat GoStack Bootcamp](https://rocketseat.com.br)
 - 🟣 [Danki Code: Curso Desenvolvimento de Games Completo](https://cursos.dankicode.com/curso-dev-games)
-- 🤖 [Discovering Godot: Make Video Games in Python-like GDScript](https://www.udemy.com/course/discovering-godot)
-- ▶️ [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
-- 📘 [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- 🤖 [Discovering Godot: Make Video Games in Python-like GDScript](https://udemy.com/course/discovering-godot)
+- ▶️ [Mini-curso de TypeScript](https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
+- 📘 [The TypeScript Handbook](https://typescriptlang.org/docs/handbook/intro.html)
 - 🧠 Machine Learning use in React Native The Practical Guide
 - 8️⃣ [Build a Chip-8 Emulator in JavaScript that runs on a browser](https://udemy.com/course/emulator)
+- ▶️ [Kotlin Course - Tutorial for Beginners](https://youtu.be/F9UC9DY-vIU)
+- 📸 [Make Social Networking App like Instagram - Kotlin, Firebase](https://udemy.com/share/102MnM)
 
 ---
 
 ### <p align="center">MY FAVORITE STACK</p>
 
-- 🐧 [Linux](https://www.linux.org)
-- 🐋 [Docker](https://www.docker.com)
-- 🍃 [MongoDB](https://www.mongodb.com)
-- 🐘 [PostgreSQL](https://www.postgresql.org)
+- 🐧 [Linux](https://linux.org)
+- 🐋 [Docker](https://docker.com)
+- 🍃 [MongoDB](https://mongodb.com)
+- 🐘 [PostgreSQL](https://postgresql.org)
 - 🔺 [Redis](https://redis.io)
 - 🐨 [PouchDB](https://pouchdb.com)
 - ⌨️ [Git](https://git-scm.com)
 - 🔷 [Visual Studio Code](https://code.visualstudio.com)
 - 🔵 [Eclipse Theia Blueprint](https://theia-ide.org)
-- 💛 [JavaScript](https://www.javascript.com)
-- 💙 [TypeScript](https://www.typescriptlang.org)
+- 💛 [JavaScript](https://javascript.com)
+- 💙 [TypeScript](https://typescriptlang.org)
 - 💚 [Node.js](https://nodejs.org)
 - 💜 [Adonis.js](https://adonisjs.com)
+- 🏷️ [Firebase](https://firebase.google.com)
 - ⚛️ [React.js](https://reactjs.org)
 - ⚛️ [React Native](https://reactnative.dev)
 - ➡️ [Next.js](https://nextjs.org)
@@ -60,12 +63,14 @@
 
 ### <p align="center">SECONDARY TOOLS</p>
 
-- 🟦 [Windows](https://www.microsoft.com/en-us/windows/default.aspx)
-- 🐬 [MySQL](https://www.mysql.com)
-- ✍️ [SQLite](https://www.sqlite.org)
-- 🔶 [Sublime Text](https://www.sublimetext.com)
+- 🟦 [Windows](https://microsoft.com/en-us/windows/default.aspx)
+- 🐬 [MySQL](https://mysql.com)
+- ✍️ [SQLite](https://sqlite.org)
+- 🔶 [Sublime Text](https://sublimetext.com)
+- 🟢 [Android Studio](https://developer.android.com/studio)
 - ☕ [Java](https://docs.oracle.com/en/java)
-- 🐘 [PHP](https://www.php.net)
+- 🟪 [Kotlin](https://kotlinlang.org)
+- 🐘 [PHP](https://php.net)
 - 🏗️ [Laravel](https://laravel.com)
 - 💲 [jQuery](https://jquery.com)
 - 🔼 [Expo](https://expo.dev)
@@ -90,7 +95,9 @@
 
 <p align="center">If you want to build something cool, tell me.</p>
 
-<p align="center"><a href="mailto:kastorcode@gmail.com">kastorcode@gmail.com</a> | <a href="https://discordapp.com/users/915652125948772372">discord@&lt;kastor.code/&gt;#7675</a> | <a href="https://instagram.com/kastorcode">instagram@kastorcode</a> | <a href="https://wa.me/5562984887222">whatsapp@+55(62)98488-7222</a></p>
+<p align="center"><a href="mailto:kastorcode@gmail.com">kastorcode@gmail.com</a> | <a href="https://instagram.com/kastorcode">instagram@kastorcode</a></p>
+
+<p align="center"><a href="https://discordapp.com/users/915652125948772372">discord@&lt;kastor.code/&gt;#7675</a> | <a href="https://wa.me/5562984887222">whatsapp@+55(62)98488-7222</a></p>
 
 ---
 
