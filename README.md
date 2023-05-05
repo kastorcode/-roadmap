@@ -35,6 +35,7 @@
 - 8️⃣ [Build a Chip-8 Emulator in JavaScript that runs on a browser](https://udemy.com/course/emulator)
 - ▶️ [Kotlin Course - Tutorial for Beginners](https://youtu.be/F9UC9DY-vIU)
 - 📸 [Make Social Networking App like Instagram - Kotlin, Firebase](https://udemy.com/share/102MnM)
+- 🔏 [Android App Development & Android Hacking, Android Security](https://udemy.com/share/1046Hs)
 
 ---
 
