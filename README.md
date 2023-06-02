@@ -37,6 +37,7 @@
 - 📸 [Make Social Networking App like Instagram - Kotlin, Firebase](https://udemy.com/share/102MnM)
 - 🔏 [Android App Development & Android Hacking, Android Security](https://udemy.com/share/1046Hs)
 - 🔏 [Learn Android Hacking for Beginners](https://udemy.com/share/1054ci)
+- 🔏 [Web Hacking Secrets: How to Hack Legally and Earn Thousands of Dollars at HackerOne](https://silesiasecuritylab.com)
 
 ---
 
