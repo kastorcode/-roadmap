@@ -38,6 +38,7 @@
 - 🔏 [Android App Development & Android Hacking, Android Security](https://udemy.com/share/1046Hs)
 - 🔏 [Learn Android Hacking for Beginners](https://udemy.com/share/1054ci)
 - 🔏 [Web Hacking Secrets: How to Hack Legally and Earn Thousands of Dollars at HackerOne](https://silesiasecuritylab.com)
+- 🔏 [Android App Hacking - Black Belt Edition](https://udemy.com/share/106LbA)
 
 ---
 
